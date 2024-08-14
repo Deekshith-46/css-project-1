@@ -301,7 +301,7 @@ header nav ul li a:hover{
     }
     .checkbtn{
         position: absolute;
-        right: 20%;
+        right: 10%;
         display: block;
     }
     header nav {
@@ -356,7 +356,7 @@ header nav ul li a:hover{
 @media screen and (min-width:325px) and (max-width:500px){
     .checkbtn{
         position: absolute;
-        right: 30%;
+        right: 10%;
         display: block;
     }
     .service-img img{
